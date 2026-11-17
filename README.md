@@ -1,0 +1,1 @@
+#This is my first project file. You Will see the index.html as the main homepage. other pages are contact, education, projects. Also all the media is available in the filename "images".
